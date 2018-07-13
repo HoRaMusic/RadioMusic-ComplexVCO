@@ -1,9 +1,9 @@
 Hora Music "Complex VCO V0.1" 
 
 This software is under GNU licence and use the vult transcompiler for high performance DSP (see the code or Gnu licence).
-This is a work in progress, a lot can be improved in the code but all seems to be working.
+This is a work in progress, a lot can be improved in the code but all seems to be working and doesn't use too much CPU or memory.
 
-It is a alternative firmware for the music thing modular "radio music" or "chord organ" module.
+It is an alternative firmware for the music thing modular "radio music" or "chord organ" module.
 This used a teensy 3.1 and the complex oscillator code is made with the vult transcompiler just like our complex oscillator developed for VCV rack: hora-music.com
 
 Concerning the 1V/oct CV input:
