@@ -18,7 +18,6 @@ https://www.youtube.com/watch?v=IRLR-bwYAhg&t=32s
 Anti aliasing has been improved since the video release and two features has been add:
 
 - A long press and hold the button allow to set the fine tune of the VCO by turning the frequency knob.
-- A very long press allow to record the current VCO setting, the recorded setting is automatically loaded when starting(powering)  
-  the  module.  
+- A very long press allow to record the current VCO setting, the recorded setting is automatically loaded when starting(powering) the module.  
 
 
