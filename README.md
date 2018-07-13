@@ -24,8 +24,8 @@ Load the firmware:
 Put this files in a folder named "teensy-vult-osc".
 Place this folder in your sketch depositary, install the teensy audio library if needed.
 Open teensy-vult-osc.ino (with the ARDUINO IDE) and upload the sketch with this setting: 
-card: teensy 3.1-3.2--
-CPU speed: 96 MHZ (overclock)--
+card: teensy 3.1-3.2    
+CPU speed: 96 MHZ (overclock)    
 USB type: serial.
 
 
