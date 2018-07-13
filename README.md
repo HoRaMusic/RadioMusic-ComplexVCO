@@ -1,3 +1,5 @@
+Hora Music "Complex VCO V0.1" 
+
 This software is under GNU licence and use the vult transcompiler for high performance DSP (see the code or Gnu licence).
 This is a work in progress, a lot can be improved in the code but all seems to be working.
 
