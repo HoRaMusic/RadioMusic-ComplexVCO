@@ -231,13 +231,13 @@ void loop() {
   getKnobsAndCVinputs(); // get pot and cv values, mix these if needed, set the lock for frequency param to avoid unstable pitch after a short time after turning the knob and attribute the values to variables.
   selectFoldingIndex(); // select the current folding index and light up the corresponding led
   controlComplexVCOParams(); // use the cv and pot value to control the ComplexVCO parameters 
-  Serial.print(AudioProcessorUsage());
+  /*Serial.print(AudioProcessorUsage());
   Serial.print(",");
   Serial.print(AudioProcessorUsageMax());
   Serial.print("    ");
   Serial.print("Memory: ");
   Serial.print(AudioMemoryUsage());
-  Serial.print(",");
+  Serial.print(",");*/
 }
 
 
