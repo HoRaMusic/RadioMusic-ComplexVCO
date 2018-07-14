@@ -14,7 +14,7 @@ This used a teensy 3.1 and the complex oscillator code is made with the vult tra
 
 Concerning the 1V/oct CV input:
 
-Due to some hardware limitations the pitch CV input can received 3.3V, then the input range is 3.3 octaves and the 1v/oct response isn't perfect but enough to be usable in musical pieces to create melodies on a range of about 3 octaves. 
+Due to some hardware limites the pitch CV input can received 3.3V, then the input range is 3.3 octaves and the 1v/oct response isn't perfect but enough to be usable in musical pieces to create melodies on a range of about 3 octaves. 
 The frequency pot is locked about 1 sec after turning it to avoid pitch unstablity caused by
 the teensy adc unstability.
 
