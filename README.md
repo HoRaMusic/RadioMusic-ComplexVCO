@@ -38,3 +38,7 @@ Two features has been added:
 - A very long press allow to record the current VCO setting, the recorded setting is automatically loaded when starting(powering) the module.  
 (Anti aliasing has been improved since the video release)
 
+TODO: 
+
+Maybe scale the pitch for exact note frequencies and use the frequency knob to select octave.
+
