@@ -33,7 +33,7 @@ Use the module :
 
 Here is a video showing how to use module:
 https://www.youtube.com/watch?v=IRLR-bwYAhg&t=32s
-Two features has been add:
+Two features has been added:
 - A long press and hold the button allows to set the fine tune of the VCO by turning the frequency knob.
 - A very long press allow to record the current VCO setting, the recorded setting is automatically loaded when starting(powering) the module.  
 (Anti aliasing has been improved since the video release)
