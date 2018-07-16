@@ -2,8 +2,9 @@ Hora Music "Complex VCO V0.1"
 
 Licence and versions: 
 
-This software is under GNU licence, it use the teensy audio library, and use the vult transcompiler for high performance DSP (see the code or Gnu licence).
 This is a work in progress (V0.1), a lot can be improved in the code but all seems to be working and doesn't use too much CPU or memory.
+This software is under GNU licence (see teensy-vult-osc.ino or GNU licence for more informations), it is developed with the teensy audio library and the "vult" "transcompiler for high performance DSP" 
+https://modlfo.github.io/vult/
 
 
 What is Complex VCO V0.1?
