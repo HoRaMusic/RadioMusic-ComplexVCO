@@ -11,7 +11,7 @@ What is Complex VCO V0.1?
 
 It is an alternative firmware for the music thing modular "radio music" or "chord organ" module.
 This used a teensy 3.1 and the complex oscillator code is made with the vult transcompiler just like the complex oscillator developed for VCV rack (named pure) by "hora music". https://www.hora-music.com
-This said the sound is pretty different because of the hardware limites and a different way to avoid aliasing,...
+This said the sound is pretty different because of the hardware limites and a different way to avoid aliasing.
 The using is a bit limited compare to the VCV module, there is less controllers then it isn't possible to use CV input for both folding and morphing at the same time, there isn't FM input there isn't audio input to use the module as a folder.  
 
 
