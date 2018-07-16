@@ -3,14 +3,14 @@ Hora Music "Complex VCO V0.1"
 Licence and versions: 
 
 This is a work in progress (V0.1), a lot can be improved in the code but all seems to be working and doesn't use too much CPU or memory.
-This software is under GNU licence (see teensy-vult-osc.ino or GNU licence for more informations), it is developed with the teensy audio library and the "vult" "transcompiler for high performance DSP" 
+This software is under GNU licence (see teensy-vult-osc.ino or GNU licence for more informations), it is developed with the teensy audio library and the "vult" "transcompiler for high performance DSP". 
 https://modlfo.github.io/vult/
 
 
 What is Complex VCO V0.1?
 
 It is an alternative firmware for the music thing modular "radio music" or "chord organ" module.
-This used a teensy 3.1 and the complex oscillator code is made with the vult transcompiler just like complex oscillator developed for VCV rack by "hora music" https://www.hora-music.com
+This used a teensy 3.1 and the complex oscillator code is made with the vult transcompiler just like complex oscillator developed for VCV rack by "hora music". https://www.hora-music.com
 
 
 Main features:
