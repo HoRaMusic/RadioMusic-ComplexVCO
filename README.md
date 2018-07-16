@@ -9,7 +9,7 @@ This is a work in progress (V0.1), a lot can be improved in the code but all see
 What is Complex VCO V0.1?
 
 It is an alternative firmware for the music thing modular "radio music" or "chord organ" module.
-This used a teensy 3.1 and the complex oscillator code is made with the vult transcompiler just like our complex oscillator developed for VCV rack: hora-music.com
+This used a teensy 3.1 and the complex oscillator code is made with the vult transcompiler just like complex oscillator developed for VCV rack by "hora music". More on https://www.hora-music.com
 
 
 Concerning the 1V/oct CV input:
