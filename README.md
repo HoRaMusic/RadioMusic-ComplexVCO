@@ -12,6 +12,17 @@ It is an alternative firmware for the music thing modular "radio music" or "chor
 This used a teensy 3.1 and the complex oscillator code is made with the vult transcompiler just like complex oscillator developed for VCV rack by "hora music". More on https://www.hora-music.com
 
 
+Main features:
+
+- 1V/oct input over 3.3 octaves (see "Concerning the 1V/oct CV input" for more informations).
+- sync input
+- cv controllable (or settable with knob) progressive morphing from sinus to triangle wave (core wave)
+- core wave folding by 2, 4, 8, or 16
+- cv controllable (or settable with knob) folding intensity
+- fine tune
+- 1 preset saving
+- fantasy noisy mode
+
 Concerning the 1V/oct CV input:
 
 Due to some hardware limites the pitch CV input can received 3.3V, then the input range is 3.3 octaves and the 1v/oct response isn't perfect but enough to be usable in musical pieces to create melodies on a range of about 3 octaves. 
@@ -35,8 +46,9 @@ Here is a video showing how to use module:
 https://www.youtube.com/watch?v=IRLR-bwYAhg&t=32s
 Two features has been added:
 - A long press and hold the button allows to set the fine tune of the VCO by turning the frequency knob.
-- A very long press allow to record the current VCO setting, the recorded setting is automatically loaded when starting(powering) the module.  
+- A very long press until the led is upligthed (not flashing) allow to record the current VCO setting, the recorded setting is automatically loaded when starting(powering) the module.  
 (Anti aliasing has been improved since the video release)
+
 
 TODO: 
 
